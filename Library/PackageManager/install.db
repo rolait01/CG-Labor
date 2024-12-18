@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.meta.xr.sdk.core": {
+      "tarball": {
+        "hash": "7cb7564e851c",
+        "mtime": 1731769744933,
+        "size": 147079379,
+        "localPath": "C:\\Users\\rober\\Downloads\\com.meta.xr.sdk.core-69.0.1.tgz"
+      }
+    }
+  }
+}
